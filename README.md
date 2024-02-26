@@ -20,5 +20,8 @@ O script acessa o site [Basketball Reference](https://www.basketball-reference.c
 - Time
 - Random
 
+# Autor
+
+Victor Hugo Valério Barros
 
 [https://www.linkedin.com/in/victorh-vbarros/](https://www.linkedin.com/in/victorh-vbarros/)
