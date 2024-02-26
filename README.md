@@ -10,7 +10,19 @@ O script acessa o site [Basketball Reference](https://www.basketball-reference.c
 ## Exemplo das estatisticas armazenadas
 ![Exemplo das estatisticas armazenadas](https://github.com/venntim/assets/blob/main/exemplo-estatistica.png)
 
-
+## Legenda da tabela
+- G -> Número do jogo na temporada;
+- Date -> Data do jogo;
+- Start (ET) -> Horário de início, quando possui;
+- Out Home -> Jogos fora de casa;
+- Opponent -> Time adversário;
+- W\L -> Vitória ou Derrota;
+- OT -> Prorrogação;
+- Tm -> Pontos do time escolhido;
+- Opp -> Pontos do time adversário;
+- W -> Quantidade de vitorias na temporada;
+- L -> Quantidade de derrotas na temporada;
+- Streaks -> Sequência de vitorias(W) ou derrotas(L);
 
 # Tecnologias utilizadas
 - Requests
