@@ -98,7 +98,7 @@ from time import sleep
 from random import randint
 from NBAstats import StatsNBA
 
-# cirando instância da classe StatsNBA
+# criando instância da classe StatsNBA
 cavs = StatsNBA("CLE", 1971, 2023)
 
 # chamando o método para extrair as estatísticas
