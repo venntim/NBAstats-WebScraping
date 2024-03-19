@@ -25,10 +25,10 @@ O script acessa o site [Basketball Reference](https://www.basketball-reference.c
 - Streaks -> Sequência de vitorias(W) ou derrotas(L);
 
 # Tecnologias utilizadas
-- Requests
+- Requests 2.31.0
 - bs4
-- Pandas
-- Numpy
+- Pandas 2.0.3
+- Numpy 1.24.3
 - Time
 - Random
 
